@@ -1,6 +1,6 @@
 Swal.fire({
-  title: 'Notification',
-  text:"WIUT Tentranet is back!!!",
+  title: 'Welcome',
+  text:"WIUT Intranet Video Downloader!!!",
   width: 600,
   padding: '3em',
   background: '#fff url(images/trees.png)',
